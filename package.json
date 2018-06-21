@@ -1,5 +1,5 @@
 {
-  "name": "es6-seed",
+  "name": "Angularjs-UT",
   "version": "1.0.0",
   "description": "A base project for angularJS 1.x and ES6 with Karma/Jasmine tests",
   "main": "src/index.html",

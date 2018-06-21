@@ -3,3 +3,4 @@ src/assets/libs/
 dist/
 coverage/
 debug.log
+.history/
